@@ -225,6 +225,8 @@ footer p {
 	text-align: center;
 	height: 3vh;
 	padding: 1%;
+	position:absolute;
+	bottom:0;
 }
 
 footer {
