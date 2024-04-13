@@ -233,6 +233,10 @@ footer {
 	color: #fff;
 	font-family: 'PT Sans Caption', sans-serif;
 	width: 100%;
+	position:absolute;
+	right:0;
+	bottom:0;
+	left:0;
 }
 
 #footsie a  {
