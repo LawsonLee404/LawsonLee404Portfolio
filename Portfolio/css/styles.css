@@ -233,6 +233,10 @@ footer {
 	color: #fff;
 	font-family: 'PT Sans Caption', sans-serif;
 	width: 100%;
+	position:absolute;
+	right:0;
+	bottom:0;
+	left:0;
 }
 
 #footsie a  {
@@ -265,7 +269,7 @@ footer {
 	background-color: #fff;
 }
 
-#skill-list ul li:nth-child(even),#about-box p:nth-child(odd) {
+#skill-list ul li:nth-child(even),#skill-list ul li:nth-child(odd) div.skill-box, #about-box p:nth-child(odd) {
 	background-color: #E3E3E3;
 }
 
